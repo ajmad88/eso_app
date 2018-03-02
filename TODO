@@ -1,0 +1,14 @@
+TO DO LIST
+
+*LOG IN*
+-impliment the function to hash new passwords and update existing passwords if hash is not up to date. ****IN PROGRESS****
+-Reset password function.
+
+*PAGINATION*
+-add the option for page selection in zones and armor section(ex. 1 2 3 4)
+
+*DATABASE*
+-continue to add armor information for zones
+
+*ZONES/ARMOR*
+-style tables 
