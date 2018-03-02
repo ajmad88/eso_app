@@ -2,7 +2,7 @@
   if(isset($_REQUEST['submit']))
   {
     //open a new connection to the MYSQL server.
-    $con = mysqli_connect("localhost","_madandj","UZEw{guy","eso_app");
+    $con = mysqli_connect("localhost","root","","eso_app");
 
     //check connection
     if(mysqli_connect_errno()) //returns the error code

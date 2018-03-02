@@ -1,6 +1,9 @@
 <?php
 
-    include_once'db_connect.php';
+    $host='localhost';
+    $user='root';
+    $password='';
+    $dbase='eso_app';
 
     try {
       $db = new PDO('mysql:host=localhost; dbname=eso_app', $user, $password);
