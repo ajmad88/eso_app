@@ -1,8 +1,8 @@
 
  <?php
  $host='localhost';
- $user='_madandj';
- $password='UZEw{guy';
+ $user='root';
+ $password='';
  $dbase='eso_app';
 
  try {
